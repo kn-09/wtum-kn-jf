@@ -1,0 +1,2 @@
+C:/Users/filar/OneDrive/Pulpit/WTUM/vgg16_model.pth filter=lfs diff=lfs merge=lfs -text
+C:/Users/filar/OneDrive/Pulpit/WTUM/resnet18_model.pth filter=lfs diff=lfs merge=lfs -text
